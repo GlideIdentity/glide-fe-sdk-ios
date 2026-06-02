@@ -1,0 +1,35 @@
+GLIDE IDENTITY — PRE-RELEASE SDK LICENSE
+
+Copyright (c) 2026 Glide Identity, Inc. All rights reserved.
+
+PERMITTED USE
+
+Use of this SDK is permitted solely for the limited purpose of evaluation
+and/or testing of this pre-release version of Glide Identity, Inc.'s
+services, only for your own internal use. Use in production environments
+or any other use outside the scope expressly permitted herein is strictly
+prohibited.
+
+NO WARRANTIES
+
+Glide Identity, Inc. disclaims all warranties, whether express, implied,
+or statutory, including without limitation implied warranties of
+merchantability and fitness for a particular purpose. You expressly
+acknowledge and agree that Glide Identity, Inc. does not represent or
+warrant that any services and/or the operation of the SDK will be
+uninterrupted or error-free.
+
+RESTRICTIONS
+
+You shall not reverse engineer, decompile, disassemble, modify, or
+change in any manner the SDK or the associated services.
+
+ASSUMPTION OF RISK
+
+You assume all risks associated with your use of this SDK.
+
+RESERVATION OF RIGHTS
+
+All rights not expressly granted herein are reserved by Glide Identity, Inc.
+
+For production licensing, contact: support@glideidentity.com
