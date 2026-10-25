@@ -28,11 +28,7 @@ dependencies: [
 ]
 ```
 
-### CocoaPods
-
-```ruby
-pod 'GlidePhoneAuth'
-```
+Swift Package Manager is the only supported channel. CocoaPods is no longer published: `pod 'GlidePhoneAuth'` resolves only to 1.0.0, so use Swift Package Manager for current versions.
 
 ## Quick Start
 
