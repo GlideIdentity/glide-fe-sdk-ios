@@ -24,7 +24,7 @@ or in `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/GlideIdentity/glide-fe-sdk-ios.git", from: "1.0.0")
+    .package(url: "https://github.com/GlideIdentity/glide-fe-sdk-ios.git", from: "3.0.0")
 ]
 ```
 
