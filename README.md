@@ -24,15 +24,11 @@ or in `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/GlideIdentity/glide-fe-sdk-ios.git", from: "1.0.0")
+    .package(url: "https://github.com/GlideIdentity/glide-fe-sdk-ios.git", from: "3.0.0")
 ]
 ```
 
-### CocoaPods
-
-```ruby
-pod 'GlidePhoneAuth'
-```
+Swift Package Manager is the only supported channel. CocoaPods is no longer published: `pod 'GlidePhoneAuth'` resolves only to 1.0.0, so use Swift Package Manager for current versions.
 
 ## Quick Start
 
