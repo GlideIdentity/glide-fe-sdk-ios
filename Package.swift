@@ -8,8 +8,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "GlidePhoneAuth",
-            url: "https://github.com/GlideIdentity/glide-fe-sdk-ios/releases/download/3.0.0/GlidePhoneAuth.xcframework.zip",
-            checksum: "9dab781f30c20876a0e98eae202adc282e497da40e7767d6da70c9ad2ec95074"
+            url: "https://github.com/GlideIdentity/glide-fe-sdk-ios/releases/download/3.2.0/GlidePhoneAuth.xcframework.zip",
+            checksum: "c6302799b2671675fbd56c1c2a76f424fbba42a91ec2acdb0a99420a8d3e2f1b"
         ),
     ]
 )
